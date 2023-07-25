@@ -1,2 +1,1 @@
-# BCT-LMS
-Binary Code Technologies LMS
+BCT_Backend
